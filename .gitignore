@@ -25,9 +25,9 @@ hs_err_pid*
 #idea
 .idea
 /target
-/.classpath
-/.project
-/.settings
+.classpath
+.project
+.settings
 /target
 *.iml
 .mymetadata
